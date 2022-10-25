@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tejas-linge](https://www.linkedin.com/in/tejas-linge)
 
-- ⚡ Fun fact **I belong to the 1% of the population (being ambidextrous haha)**
+- ⚡ Fun fact **I'm always available to talk about interesting ideas and projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
