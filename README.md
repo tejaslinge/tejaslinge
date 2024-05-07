@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Tejas</h1>
-<h3 align="center">A passionate Data Scientist, Trading Bot Developer and an aspiring Quant Analyst.</h3>
+<h3 align="center">A skilled Data Scientist turned Quant </h3>
 
-- 🔭 I’m currently working on **NLP and NLG problems at Pixis**
+- 🔭 I’m currently working on **backtesting, analysing, and developing Options trading strategies based on technical analysis & Greeks**
+
+- 💪 I have strong experience **with automation using Python, Machine Learning, and solving NLP/NLG problems**
 
 - 🌱 I’m currently polishing my **Python development and Product engineering skills**
 
-- 👯 I’m looking to collaborate on **Trading Bot Development projects 📈**
+- 👯 I’m looking to collaborate on **projects related to - Backtesting, Quant Analysis, and automated Trading 📈**
 
 - 📫 How to reach me **tejas.linge101@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/tejas-linge](https://www.linkedin.com/in/tejas-linge)
 
-- ⚡ Fun fact **I'm always available to talk about interesting ideas and projects**
+- ⚡ Fun fact **I'm ambidextrous and**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
