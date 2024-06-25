@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently polishing my **Python development and Product engineering skills**
 
-- 👯 I’m looking to collaborate on **projects related to - Backtesting, Quant Analysis, and automated Trading 📈**
+- 👯 I’m looking to collaborate on **projects related to - Backtesting, Quant Analysis, and automated Trading 📈 using Python**
 
 - 📫 How to reach me **tejas.linge101@gmail.com**
 
